@@ -36,8 +36,10 @@ the OK of a Spec Lead (or the Spec Lead side-quest holder), named below.
 One row per person. The same role may appear on more than one row.
 
 | Name | GitHub username | Role |
-|Alicia Allen|allea26|Strategist Lead|
-| | | |
+|---|---|---|
+| Jordan Shortt | jorshortt | The Captain |
+| Alicia Allen | allea26 | Strategist Lead |
+| Sam Trout | strout2003 | The Closer |
 
 ## Side quests
 
