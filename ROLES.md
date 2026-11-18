@@ -40,6 +40,7 @@ One row per person. The same role may appear on more than one row.
 | Jordan Shortt | jorshortt | The Captain |
 | Alicia Allen | allea26 | Strategist Lead |
 | Sam Trout | strout2003 | The Closer |
+| Sean Jones | seanj2508 | Data Lead |
 
 ## Side quests
 
