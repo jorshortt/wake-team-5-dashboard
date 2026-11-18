@@ -37,11 +37,8 @@ One row per person. The same role may appear on more than one row.
 
 | Name | GitHub username | Role |
 |---|---|---|
-<<<<<<< Updated upstream
 | Jordan Shortt | jorshortt | The Captain |
-=======
 | Sam Trout | strout2003 | The Closer |
->>>>>>> Stashed changes
 
 ## Side quests
 
