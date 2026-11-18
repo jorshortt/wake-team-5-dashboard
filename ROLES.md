@@ -37,7 +37,7 @@ One row per person. The same role may appear on more than one row.
 
 | Name | GitHub username | Role |
 |---|---|---|
-| Sean Jones | seanj2508 | The Engineer |
+| Sean Jones | seanj2508 | Data Lead |
 
 ## Side quests
 
